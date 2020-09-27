@@ -77,7 +77,7 @@ layout: true
 ### Constructive alignment
 
 - &#x26A1; **Idea in brief**: To get the most out of the teaching and learning, we have to **align** *intended learning outcomes*, the *teaching activities*, and *the assessment*
-- **Constructive** part comes from  *constructivist theories* that argues **the student and her activities** have the **central role** in **creating meaning**
+- **Constructive** part comes from  *constructivist theories* that argue **the student and her activities** have the **central role** in **creating meaning**
 - Quizzes and exercises are designed to
   - be aligned with the **learning outcomes** and **teaching activities** (i.e. lectures and tutorials)
   - increase student's performance in reaching higher levels of complexity (e.g. at least level 3 and 4 in **SOLO taxonomy**)
