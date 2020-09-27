@@ -214,15 +214,61 @@ layout: true
   - **All** have viewed the lecture slides.
 - According to [Compeau (2019)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006764), the flipped classroom method and its benefits of using it should be discussed with students beforehand for an implementation to be successful.  
 
-| | | |
-|-|-|-|
-|<img src="28092020_digipilot_resources/flipped_learning_2.png" style="height: 200px;"/> | <img src="28092020_digipilot_resources/flipped_learning_3.png" style="height: 200px;"/> | <img src="28092020_digipilot_resources/flipped_learning_4.png" style="height: 200px;"/> |
+.center[
+<img src="28092020_digipilot_resources/flipped_learning_2.png" style="height: 250px;"/>
+]
 
 ???
 
 - Difficult to enforce in the current setup
 - We did not push it
 - 14th was the deadline for the exercise set
+
+---
+
+count: false
+
+## Pedagogical considerations (4)
+
+### Flipped classroom (3)
+
+- Exercise was expected to be viewed and completed before **08.09.2020** - 10 a.m.
+  - Only **15 students** have watched the video (data accessed on 23.09.2020-13:00)
+  - **All** have viewed the lecture slides.
+- According to [Compeau (2019)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006764), the flipped classroom method and its benefits of using it should be discussed with students beforehand for an implementation to be successful.  
+
+.center[
+<img src="28092020_digipilot_resources/flipped_learning_3.png" style="height: 250px;"/>
+]
+
+???
+
+- Difficult to enforce in the current setup
+- We did not push it
+- 14th was the deadline for the exercise set
+---
+
+count: false
+
+## Pedagogical considerations (4)
+
+### Flipped classroom (3)
+
+- Exercise was expected to be viewed and completed before **08.09.2020** - 10 a.m.
+  - Only **15 students** have watched the video (data accessed on 23.09.2020-13:00)
+  - **All** have viewed the lecture slides.
+- According to [Compeau (2019)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006764), the flipped classroom method and its benefits of using it should be discussed with students beforehand for an implementation to be successful.  
+
+.center[
+<img src="28092020_digipilot_resources/flipped_learning_4.png" style="height: 250px;"/>
+]
+
+???
+
+- Difficult to enforce in the current setup
+- We did not push it
+- 14th was the deadline for the exercise set
+
 
 ---
 
@@ -266,10 +312,24 @@ layout: true
   - **Sequencing**, **IGV**, **WinSCP**, **Standard streams**, **Binary system**, **hierarchical clustering**, **enrichment analysis**, and **survival analysis**
 - Other online resources (e.g. [MIT computational Biology course](https://www.youtube.com/playlist?list=PLypiXJdtIca6GBQwDTo4bIEDV8F4RcAgt) and [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUJo2Q6xK4tZElbIvAACEykp))
 
-.table[
-| Clustering | Sequencing |
-|-|-|
-|<img src="28092020_digipilot_resources/clustering.png" style="height: 200px;"/> | <img src="28092020_digipilot_resources/sequencing.png" style="height: 180px;"/>|
+.center[
+<img src="28092020_digipilot_resources/clustering.png" style="height: 250px;"/>
+]
+
+---
+
+count: false
+
+## Materials (2)
+
+### Animations and screen capture videos
+
+- In-house (so far **5 animations**, **2+2 screen captures**)
+  - **Sequencing**, **IGV**, **WinSCP**, **Standard streams**, **Binary system**, **hierarchical clustering**, **enrichment analysis**, and **survival analysis**
+- Other online resources (e.g. [MIT computational Biology course](https://www.youtube.com/playlist?list=PLypiXJdtIca6GBQwDTo4bIEDV8F4RcAgt) and [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUJo2Q6xK4tZElbIvAACEykp))
+
+.center[
+<img src="28092020_digipilot_resources/sequencing.png" style="height: 250px;"/>
 ]
 
 ---
