@@ -83,7 +83,7 @@ layout: true
   - increase student's performance in reaching higher levels of complexity (e.g. at least level 3 and 4 in **SOLO taxonomy**)
 - **example**: variant calling exercise set (BTK6002, week 4)
   - Prepare data, call variants, annotate, inspect, filter, select, contextualize...
-- **Capstone project** is designed to assess students' performance at all 5 levels of SOLO taxonomy
+- **Capstone project** is designed to assess students' performance at all 5 levels of the SOLO taxonomy
 
 <br>
 
