@@ -83,8 +83,9 @@ layout: true
   - increase student's performance in reaching higher levels of complexity (e.g. at least level 3 and 4 in **SOLO taxonomy**)
 - **example**: variant calling exercise set (BTK6002, week 4)
   - Prepare data, call variants, annotate, inspect, filter, select, contextualize...
+- **Capstone project** is designed to assess students' performance at all 5 levels of SOLO taxonomy
 
-<br><br>
+<br>
 
 .smaller-font[
 **See** e.g. [Enhancing teaching through constructive alignment](https://doi.org/10.1007/BF00138871) (Biggs, 2006)
@@ -103,6 +104,11 @@ layout: true
   - teaching: help in storing and processing knowledge
 - **SOLO**: the Structure of the Observed Learning Outcome
   - levels: pre-structural, unistructural, multi-structural, Relational, Extend abstract
+  - I: failure and incompetence (no can do!)
+  - II: follow simple instructions, identify, name (run bowti2)
+  - III: Combine things that are relevant, describe, list (run bowtie2, samtools sort)
+  - IV: relation of things together, Analyze, apply, compare, relate (inspect and understand results for above)
+  - V: Create, generate, generalize to a new domain (Use all these to analyze new data set, new data type)
 
 ---
 
@@ -145,13 +151,14 @@ layout: true
 
 .leftt-column[
 
-- **ZPD** is the zone in which student can do things **with assistance**
+- **ZPD** is the zone in which student can do things **with assistance** &#x1F64B; &#x1F465;
 - **Scaffolding** is whatever activities that can provide such assistance
   - Tutorials, animations, exercises, exercise sessions
   - A complex task (e.g. variant calling) is broken down into less complex tasks with step-by-step instructions to advance
+  - Each step builds on an earlier step
 
 ]
-
+<br><br><br><br>
 .smaller-font[  
 **See** &#x1F4DA; [Mind in Society](https://isbndb.com/book/9780674076693) (Vygotsky, 1978) and [University Teaching In Focus](https://isbndb.com/book/9780415644068)
 ]
