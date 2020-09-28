@@ -9,7 +9,7 @@ layout: true
 
 # &#x2660; Digital pedagogy pilot project &#x2660;
 
-## digi-pilot / digipilotti
+## Bioinformatics digi-pilot / digipilotti
 
 ### Ebrahim Afyounian  
 
