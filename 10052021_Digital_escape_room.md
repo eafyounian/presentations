@@ -95,8 +95,8 @@ layout: true
   - It is a rather small one, containing only a couple of random puzzles
 - We will use the Zoom breakout rooms to form smaller groups
   - Let's form groups containing both biologists and computational members 
-  - Everything you need to know to play this game, is explained in the game if needed
-  - Let's allocate 25 minutes for completing the game (but it can be done in less time, so __relax and enjoy the game__!)  
+  - Everything you need to know to play is explained in the game if needed
+  - Let's allocate 25 minutes for completing the game (but it can be done in less time, so __relax and enjoy the experience__!)  
 - Here is the link to the game: [the link will be added on the presentation day]()
 - Let's gather in the main room, once we are done, to discuss our experience and collect feedback
 - Whenever you have time, please go and fill in the following anonymous survey form (it takes ~10 minutes). 
@@ -108,8 +108,8 @@ layout: true
 - The game was implemented using [Twine](https://twinery.org/), an open-source tool for telling interactive, nonlinear stories
   - Essentially, a game is composed of several pages (called __passages__) which are connected to each other via __links__
   - This particular game had 30 passages and 71 links
-- There are a few ___story formats___ to be used in Twine, affecting how the stroy is displayed  
-  - For this game, I have used ___Harlowe___ which is the default and one does not require knowing scripting/programming
+- There are a few ___story formats___ that we can choose from in Twine, affecting how the stroy is displayed  
+  - For this game, I used ___Harlowe___, the default format, which does not require knowing scripting/programming
 - There are several alternatives (e.g. [ink](https://www.inklestudios.com/ink/)) but may require scripting knowledge
 - The output is an HTML file that can be easily uploaded to the Web
   - I am using [the link will be added on the presentation day]() as the home of the game
