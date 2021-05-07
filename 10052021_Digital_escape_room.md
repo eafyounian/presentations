@@ -97,7 +97,7 @@ layout: true
   - Let's form groups containing both biologists and computational members 
   - Everything you need to know to play is explained in the game if needed
   - Let's allocate 25 minutes for completing the game (but it can be done in less time, so __relax and enjoy the experience__!)  
-- Here is the link to the game: [the link will be added on the presentation day]()
+- Here is the link to the game: [Breathless at CEH: A curious case of Christmas party](https://eafyounian.github.io/Breathless_at_CEH/)
 - Let's gather in the main room, once we are done, to discuss our experience and collect feedback
 - Whenever you have time, please go and fill in the following anonymous survey form (it takes ~10 minutes). 
   - [Survey about your impression and experience of the digital escape room](https://forms.gle/HpFiThYjiUioBiw28)
@@ -112,7 +112,7 @@ layout: true
   - For this game, I used ___Harlowe___, the default format, which does not require knowing scripting/programming
 - There are several alternatives (e.g. [ink](https://www.inklestudios.com/ink/)) but may require scripting knowledge
 - The output is an HTML file that can be easily uploaded to the Web
-  - I am using [the link will be added on the presentation day]() as the home of the game
+  - I am using [GitHub Pages](https://eafyounian.github.io/Breathless_at_CEH/) to host the game
 - Contact me for more details about the implementation
 <br><br><br><br>
 .smaller-font[&#x1F4A1; ___Trivia___ : Twine was used in developing the interactive film [Black Mirror: Bandersnatch](https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch)]
