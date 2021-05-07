@@ -100,7 +100,7 @@ layout: true
 - Here is the link to the game: [the link will be added on the presentation day]()
 - Let's gather in the main room, once we are done, to discuss our experience and collect feedback
 - Whenever you have time, please go and fill in the following anonymous survey form (it takes ~10 minutes). 
-  - [Survey about your impression of the digital escape room]()
+  - [Survey about your impression and experience of the digital escape room](https://forms.gle/HpFiThYjiUioBiw28)
 ---
 
 ## Implementation
