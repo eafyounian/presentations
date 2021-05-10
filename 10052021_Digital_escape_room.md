@@ -26,7 +26,7 @@ layout: true
   - biology, statistics, computer science, mathematics, ...
 - Each students has a unique life experience and knowledge (schemata)
   - contributing to unique strengths and affinities to each of these fields
-- Interindividual __interactions__ potentially ___externalize___ and ___share___ such schemata
+- Interindividual __interactions__ potentially ___externalize___ and ___share___ part of such schemata
 - e.g. imagine you and your &#x1F47D; friend are having a chat while cooking &#x1F372; together
       - &#x1F464; __Why__ did you put the brine from the _space tofu_ jar in the pot instead of draining it? 
       - &#x1F47D; ___Because___ salt is rare in our planet and we have learned not to waste it? 
@@ -41,7 +41,7 @@ layout: true
 
 ## What does _education research_ has to say?
 
-- Students __learn more__ when they are __more engaged__ with the learning material
+- Students __learn more__ when they are __more engaged__ with the learning material ([Chi and Wylie, 2014](https://doi.org/10.1080/00461520.2014.965823))
 - e.g. the __ICAP framework__ ([Chi and Wylie, 2014](https://doi.org/10.1080/00461520.2014.965823)) predicts the following relation regarding the __amount of learning__ at different __modes of engagement__ 
 .center[### interactive \> constructive \> active \> passive]
 .smaller-font[
